@@ -47,10 +47,10 @@ li
 .left-menu
 {
     display: block;
-    height: 920px;
+    height: 780px;
     width: 85px;
     color: black;
-    background-color: #bf0010;
+    background-color: #6f0009;
 }
 
 .asset-menu
@@ -78,5 +78,21 @@ li
 
 #border-cut
 {
-    border-top-right-radius: 23px;
+    border-top-right-radius: 17px;
+}
+
+#bas-page
+{
+    position: absolute;
+    width: 85px;
+    height: 150px;
+    background-color: #bf0010;
+}
+
+#point
+{
+    height: 55px;
+    position: relative;
+    top: 1px;
+    border-top-right-radius: 17px;
 }
