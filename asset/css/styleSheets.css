@@ -1,0 +1,81 @@
+body
+{
+    margin: 0;
+}
+
+.head-principal
+{
+    display: inline;
+    position: absolute;
+    z-index: 1030;
+    top: 0;
+    align-items: center;
+    width: 100%;
+    height: 72px;
+    padding-left: 12px;
+    border-bottom: 1px solid #bf0010;
+    background: #e60012;
+    color: #fff;
+    line-height: 0;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+#logonintendo
+{
+    height: 65px;
+    width: 120px;
+    position: relative;
+}
+
+.top-button-item
+{
+    position: relative;
+    float: right;
+    right: 30px;
+    display: inline-block;
+}
+
+li
+{
+    color: white;
+    display: inline;
+}
+
+.left-menu
+{
+    display: block;
+    height: 920px;
+    width: 85px;
+    color: black;
+    background-color: #bf0010;
+}
+
+.asset-menu
+{
+    text-align: center;
+    bottom: 250px;
+    width: 80px;
+    background-color: #e60012;
+    display: inline-block;
+    font-family: Arial, sans-serif;
+    color: white;
+    border: 1px black;
+    padding-left: 5px;
+}
+
+#jeux
+{
+    padding-top: 73px;
+}
+
+#end-menu
+{
+    height: 55px;
+}
+
+#border-cut
+{
+    border-top-right-radius: 23px;
+}
